@@ -1,16 +1,17 @@
-﻿All invitations,100,,,
-Returned to sender,,20,,
-Not returned,,80,,
-Not started ,,,18,
-Refusals,,,10,
-Telephone appointment,,,12,
-Started online,,,40,
-Completed,,,,17
-Completed with webchat,,,,1
-Drop-out after 7th section,,,,2
-Drop-out after 6th section,,,,4
-Drop-out after 5th section,,,,6
-Drop-out after 4th section,,,,5
-Drop-out after 3rd section,,,,2
-Drop-out after 2nd section,,,,2
-Drop-out after 1st section,,,,1
+﻿,All invitations,Not returned,Started online,Stage 4
+All invitations,100,0,0,0
+Returned to sender,0,20,0,0
+Not returned,0,80,0,0
+Not started ,0,0,18,0
+Refusals,0,0,10,0
+Telephone appointment,0,0,12,0
+Started online,0,0,40,0
+Completed,0,0,0,17
+Completed with webchat,0,0,0,1
+Drop-out after 7th section,0,0,0,2
+Drop-out after 6th section,0,0,0,4
+Drop-out after 5th section,0,0,0,6
+Drop-out after 4th section,0,0,0,5
+Drop-out after 3rd section,0,0,0,2
+Drop-out after 2nd section,0,0,0,2
+Drop-out after 1st section,0,0,0,1
