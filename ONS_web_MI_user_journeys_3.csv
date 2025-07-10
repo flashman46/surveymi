@@ -1,14 +1,14 @@
-﻿source,destination1,destination2,destination3,Value
-All respondents,Not returned,Started online,Completed,17
-All respondents,Not returned,Started online,Completed with webchat,1
-All respondents,Not returned,Started online,Drop-out after 7th section,2
-All respondents,Not returned,Started online,Drop-out after 6th section,4
-All respondents,Not returned,Started online,Drop-out after 5th section,6
-All respondents,Not returned,Started online,Drop-out after 4th section,5
-All respondents,Not returned,Started online,Drop-out after 3rd section,2
-All respondents,Not returned,Started online,Drop-out after 2nd section,2
-All respondents,Not returned,Started online,Drop-out after 1st section,1
-All respondents,Not returned,Telephone appt,,12
-All respondents,Not returned,Refusals,,10
-All respondents,Not returned,Not started,,18
-All respondents,Returned to sender,,,20
+﻿source,destination1,destination2,destination3,value
+All_respondents,Not_returned,Started_online,Completed,17
+All_respondents,Not returned,Started_online,Completed_with_webchat,1
+All_respondents,Not returned,Started_online,Drop-out_after_7th_section,2
+All_respondents,Not returned,Started_online,Drop-out_after_6th_section,4
+All_respondents,Not_returned,Started_online,Drop-out_after_5th_section,6
+All_respondents,Not_returned,Started_online,Drop-out_after_4th_section,5
+All_respondents,Not_returned,Started_online,Drop-out_after_3rd_section,2
+All_respondents,Not_returned,Started_online,Drop-out_after_2nd_section,2
+All_respondents,Not_returned,Started_online,Drop-out_after_1st_section,1
+All_respondents,Not_returned,Telephone_appt,,12
+All_respondents,Not_returned,Refusals,,10
+All_respondents,Not_returned,Not_started,,18
+All_respondents,Returned_to_sender,,,20
