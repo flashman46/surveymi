@@ -1,0 +1,6 @@
+﻿,Setup,You_and_your_household,Work_and_employment,Bank_savings,Investments,Pensions,Foreign_assets,Inheritance,Debts_and_bankruptcy
+Mean_time,3,5,15,15,7,30,6,12,6
+Median_time,3,3,10,11,4,32,3,5,3
+Mode_time,3,3,10,8,3,18,3,3,1
+Section_deferred,0,2,10,2,20,50,2,5,1
+Section_completion_rate,100,90,72,68,88,48,89,77,93
